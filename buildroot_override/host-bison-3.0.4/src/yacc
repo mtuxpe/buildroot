@@ -1,0 +1,2 @@
+#! /bin/sh
+exec '/home/msam/c-sky/aisk_fork/output/host/bin/bison' -y "$@"

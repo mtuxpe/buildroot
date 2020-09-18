@@ -13,6 +13,6 @@ genimage                           \
 	--outputpath "${BINARIES_DIR}" \
 	--config "${GENIMAGE_CFG}"
 
-xz -z ${BINARIES_DIR}/usb.img
+#xz -z ${BINARIES_DIR}/usb.img
 
 exit $?
